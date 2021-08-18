@@ -1,1 +1,1 @@
-# ArcoLinux-betterlockscreen-dev
+# ArcoLinux-betterlockscreen
